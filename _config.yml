@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Andy Zhang's Gallery
+title: Hexagons's Gallery
 
 # The title on the web page
-full_name: Andy Zhang
+full_name: Ram Narasimhan
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -28,7 +28,7 @@ columns: 4
 max_height: 400
 
 # Handle
-instagram: andy.fuji
+instagram: ramnarasimhan
 
 ######################
 # END OF CONFIG CODE #
@@ -56,6 +56,5 @@ category_dir: /
 # Example, you must use http://localhost:4000/path/to/blog
 #baseurl: /path/to/blog
 baseurl: /
-
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 # url: http://andyzhang.net/gallery
