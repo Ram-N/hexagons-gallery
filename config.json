@@ -23,208 +23,944 @@
       "compressed_path": "./photos/Bubbles/18_r_11_c_6_Bubbles__2020-06-14_22-38-31_PM.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Bubbles/18_r_11_c_6_Bubbles__2020-06-14_22-38-31_PM.placeholder.jpg"
-    },
-    {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Bubbles/glossary.png",
-      "compressed_path": "./photos/Bubbles/glossary.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Bubbles/glossary.placeholder.png"
-    },
-    {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Bubbles/photoframe.png",
-      "compressed_path": "./photos/Bubbles/photoframe.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Bubbles/photoframe.placeholder.png"
     }
   ],
-  "Voronoi": [
+  "HoldAll": [
     {
-      "width": 3112,
-      "height": 4149,
-      "path": "./photos/Voronoi/20160406-20160505DSCF2086.jpg",
-      "compressed_path": "./photos/Voronoi/20160406-20160505DSCF2086.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/20160406-20160505DSCF2086.placeholder.jpg"
+      "width": 1004,
+      "height": 565,
+      "path": "./photos/HoldAll/14108MultipleGrids_matchingcenters2020-05-23_21-59-04_PM.jpg",
+      "compressed_path": "./photos/HoldAll/14108MultipleGrids_matchingcenters2020-05-23_21-59-04_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14108MultipleGrids_matchingcenters2020-05-23_21-59-04_PM.placeholder.jpg"
     },
     {
-      "width": 3578,
-      "height": 4472,
-      "path": "./photos/Voronoi/DSCF0138.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF0138.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF0138.placeholder.jpg"
+      "width": 988,
+      "height": 615,
+      "path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-29-28_PM.jpg",
+      "compressed_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-29-28_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-29-28_PM.placeholder.jpg"
     },
     {
-      "width": 3578,
-      "height": 4472,
-      "path": "./photos/Voronoi/DSCF0219.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF0219.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF0219.placeholder.jpg"
+      "width": 980,
+      "height": 618,
+      "path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-30-57_PM.jpg",
+      "compressed_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-30-57_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-30-57_PM.placeholder.jpg"
     },
     {
-      "width": 3266,
-      "height": 4899,
-      "path": "./photos/Voronoi/DSCF0860.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF0860.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF0860.placeholder.jpg"
+      "width": 979,
+      "height": 611,
+      "path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_09-36-59_AM.jpg",
+      "compressed_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_09-36-59_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_09-36-59_AM.placeholder.jpg"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Voronoi/DSCF0989(1).jpg",
-      "compressed_path": "./photos/Voronoi/DSCF0989(1).min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF0989(1).placeholder.jpg"
+      "width": 997,
+      "height": 561,
+      "path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_20-32-36_PM.jpg",
+      "compressed_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_20-32-36_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_20-32-36_PM.placeholder.jpg"
     },
     {
-      "width": 5332,
-      "height": 3000,
-      "path": "./photos/Voronoi/DSCF1252.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF1252.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF1252.placeholder.jpg"
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/HoldAll/141392Grids_centers_offset2020-05-26_17-48-18_PM.jpg",
+      "compressed_path": "./photos/HoldAll/141392Grids_centers_offset2020-05-26_17-48-18_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/141392Grids_centers_offset2020-05-26_17-48-18_PM.placeholder.jpg"
     },
     {
-      "width": 4898,
-      "height": 3265,
-      "path": "./photos/Voronoi/DSCF1502.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF1502.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF1502.placeholder.jpg"
+      "width": 1065,
+      "height": 599,
+      "path": "./photos/HoldAll/141393Grids_centers_offset2020-05-26_18-45-18_PM.jpg",
+      "compressed_path": "./photos/HoldAll/141393Grids_centers_offset2020-05-26_18-45-18_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/141393Grids_centers_offset2020-05-26_18-45-18_PM.placeholder.jpg"
     },
     {
-      "width": 3264,
-      "height": 4352,
-      "path": "./photos/Voronoi/DSCF1802.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF1802.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF1802.placeholder.jpg"
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-38-59_AM.jpg",
+      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-38-59_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-38-59_AM.placeholder.jpg"
     },
     {
-      "width": 2363,
-      "height": 3151,
-      "path": "./photos/Voronoi/DSCF1894.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF1894.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF1894.placeholder.jpg"
+      "width": 985,
+      "height": 555,
+      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-57-56_AM.jpg",
+      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-57-56_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-57-56_AM.placeholder.jpg"
     },
     {
-      "width": 2856,
-      "height": 3808,
-      "path": "./photos/Voronoi/DSCF2242.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF2242.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF2242.placeholder.jpg"
+      "width": 982,
+      "height": 552,
+      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-32-55_PM.jpg",
+      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-32-55_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-32-55_PM.placeholder.jpg"
     },
     {
-      "width": 3264,
-      "height": 4352,
-      "path": "./photos/Voronoi/DSCF3621.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF3621.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF3621.placeholder.jpg"
+      "width": 992,
+      "height": 558,
+      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-04_PM.jpg",
+      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-04_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-04_PM.placeholder.jpg"
     },
     {
-      "width": 3264,
-      "height": 4080,
-      "path": "./photos/Voronoi/DSCF4244.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF4244.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF4244.placeholder.jpg"
+      "width": 1038,
+      "height": 584,
+      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-12_PM.jpg",
+      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-12_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-12_PM.placeholder.jpg"
     },
     {
-      "width": 2611,
-      "height": 3264,
-      "path": "./photos/Voronoi/DSCF4538.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF4538.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF4538.placeholder.jpg"
+      "width": 1025,
+      "height": 577,
+      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-25_20-45-13_PM.jpg",
+      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-25_20-45-13_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-25_20-45-13_PM.placeholder.jpg"
     },
     {
-      "width": 3170,
-      "height": 3962,
-      "path": "./photos/Voronoi/DSCF5636.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF5636.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF5636.placeholder.jpg"
+      "width": 1044,
+      "height": 587,
+      "path": "./photos/HoldAll/1455MultipleGrids_matchingcenters2020-05-23_11-13-28_AM.jpg",
+      "compressed_path": "./photos/HoldAll/1455MultipleGrids_matchingcenters2020-05-23_11-13-28_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/1455MultipleGrids_matchingcenters2020-05-23_11-13-28_AM.placeholder.jpg"
     },
     {
-      "width": 2719,
-      "height": 3399,
-      "path": "./photos/Voronoi/DSCF7355.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF7355.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF7355.placeholder.jpg"
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-16-22_PM.jpg",
+      "compressed_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-16-22_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-16-22_PM.placeholder.jpg"
     },
     {
-      "width": 3538,
-      "height": 4422,
-      "path": "./photos/Voronoi/DSCF7399.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF7399.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF7399.placeholder.jpg"
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-22-17_PM.jpg",
+      "compressed_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-22-17_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-22-17_PM.placeholder.jpg"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Voronoi/DSCF8053.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF8053.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF8053.placeholder.jpg"
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-23-23_PM.jpg",
+      "compressed_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-23-23_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-23-23_PM.placeholder.jpg"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Voronoi/DSCF8091.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF8091.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF8091.placeholder.jpg"
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-24-43_PM.jpg",
+      "compressed_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-24-43_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-24-43_PM.placeholder.jpg"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Voronoi/DSCF8103.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF8103.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF8103.placeholder.jpg"
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-26-19_PM.jpg",
+      "compressed_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-26-19_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-26-19_PM.placeholder.jpg"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Voronoi/DSCF8196.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF8196.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF8196.placeholder.jpg"
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/2020-04-16_23-43-20_PM.jpg",
+      "compressed_path": "./photos/HoldAll/2020-04-16_23-43-20_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/2020-04-16_23-43-20_PM.placeholder.jpg"
     },
     {
-      "width": 3578,
-      "height": 4472,
-      "path": "./photos/Voronoi/DSCF8846.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF8846.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF8846.placeholder.jpg"
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/2020-04-16_23-44-27_PM.jpg",
+      "compressed_path": "./photos/HoldAll/2020-04-16_23-44-27_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/2020-04-16_23-44-27_PM.placeholder.jpg"
     },
     {
-      "width": 3250,
-      "height": 4062,
-      "path": "./photos/Voronoi/DSCF8958.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF8958.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF8958.placeholder.jpg"
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/2020-04-17_18-40-04_PM.jpg",
+      "compressed_path": "./photos/HoldAll/2020-04-17_18-40-04_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/2020-04-17_18-40-04_PM.placeholder.jpg"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Voronoi/DSCF8993.jpg",
-      "compressed_path": "./photos/Voronoi/DSCF8993.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Voronoi/DSCF8993.placeholder.jpg"
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/2020-04-17_18-43-25_PM.jpg",
+      "compressed_path": "./photos/HoldAll/2020-04-17_18-43-25_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/2020-04-17_18-43-25_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/2020-04-17_18-45-06_PM.jpg",
+      "compressed_path": "./photos/HoldAll/2020-04-17_18-45-06_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/2020-04-17_18-45-06_PM.placeholder.jpg"
+    },
+    {
+      "width": 991,
+      "height": 950,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_BW_HIGHV2020-05-06_10-56-22_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_BW_HIGHV2020-05-06_10-56-22_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_BW_HIGHV2020-05-06_10-56-22_AM.placeholder.jpg"
+    },
+    {
+      "width": 987,
+      "height": 973,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-03_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-03_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-03_AM.placeholder.jpg"
+    },
+    {
+      "width": 940,
+      "height": 586,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-14_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-14_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-14_AM.placeholder.jpg"
+    },
+    {
+      "width": 930,
+      "height": 573,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-44_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-44_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-44_AM.placeholder.jpg"
+    },
+    {
+      "width": 936,
+      "height": 585,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-53_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-53_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-57-53_AM.placeholder.jpg"
+    },
+    {
+      "width": 935,
+      "height": 574,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-08_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-08_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-08_AM.placeholder.jpg"
+    },
+    {
+      "width": 1007,
+      "height": 982,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-24_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-24_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-24_AM.placeholder.jpg"
+    },
+    {
+      "width": 993,
+      "height": 968,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-48_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-48_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-48_AM.placeholder.jpg"
+    },
+    {
+      "width": 981,
+      "height": 955,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-56_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-56_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_BW_LOWSAT2020-05-06_10-58-56_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_PinkslowSat2020-05-06_10-12-15_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_PinkslowSat2020-05-06_10-12-15_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_PinkslowSat2020-05-06_10-12-15_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_Yellow2020-05-06_09-58-55_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_Yellow2020-05-06_09-58-55_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_Yellow2020-05-06_09-58-55_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_Yellow2020-05-06_10-00-06_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_Yellow2020-05-06_10-00-06_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_Yellow2020-05-06_10-00-06_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_YellowCyans2020-05-06_10-02-20_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_YellowCyans2020-05-06_10-02-20_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_YellowCyans2020-05-06_10-02-20_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_YellowGreens2020-05-06_10-09-08_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_YellowGreens2020-05-06_10-09-08_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_YellowGreens2020-05-06_10-09-08_AM.placeholder.jpg"
+    },
+    {
+      "width": 993,
+      "height": 962,
+      "path": "./photos/HoldAll/bgBlu_SmallCircles2020-05-08_12-10-50_PM.jpg",
+      "compressed_path": "./photos/HoldAll/bgBlu_SmallCircles2020-05-08_12-10-50_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgBlu_SmallCircles2020-05-08_12-10-50_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-07_PM.jpg",
+      "compressed_path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-07_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-07_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-38_PM.jpg",
+      "compressed_path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-38_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-38_PM.placeholder.jpg"
+    },
+    {
+      "width": 977,
+      "height": 975,
+      "path": "./photos/HoldAll/bgW_RANDOM_BW2020-05-06_10-55-24_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_BW2020-05-06_10-55-24_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_BW2020-05-06_10-55-24_AM.placeholder.jpg"
+    },
+    {
+      "width": 936,
+      "height": 941,
+      "path": "./photos/HoldAll/bgW_RANDOM_CTriangle_YellowGreen2020-05-06_10-53-32_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_CTriangle_YellowGreen2020-05-06_10-53-32_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_CTriangle_YellowGreen2020-05-06_10-53-32_AM.placeholder.jpg"
+    },
+    {
+      "width": 981,
+      "height": 954,
+      "path": "./photos/HoldAll/bgW_RANDOM_CTriangle_YellowGreen2020-05-06_10-54-09_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_CTriangle_YellowGreen2020-05-06_10-54-09_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_CTriangle_YellowGreen2020-05-06_10-54-09_AM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/bgW_RANDOM_HHEX_BlueRedBrow2020-05-06_10-50-37_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_HHEX_BlueRedBrow2020-05-06_10-50-37_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_HHEX_BlueRedBrow2020-05-06_10-50-37_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_2020-05-06_09-53-57_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_2020-05-06_09-53-57_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_2020-05-06_09-53-57_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_2020-05-06_09-54-38_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_2020-05-06_09-54-38_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_2020-05-06_09-54-38_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_2020-05-06_09-54-59_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_2020-05-06_09-54-59_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_2020-05-06_09-54-59_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_BlueRedBrow2020-05-06_10-34-08_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_BlueRedBrow2020-05-06_10-34-08_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_BlueRedBrow2020-05-06_10-34-08_AM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_BlueRedBrow2020-05-06_10-49-42_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_BlueRedBrow2020-05-06_10-49-42_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_POLYGONS_BlueRedBrow2020-05-06_10-49-42_AM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/bgW_RANDOM_RHOMB_BlueRedBrow2020-05-06_10-52-06_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_RHOMB_BlueRedBrow2020-05-06_10-52-06_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_RHOMB_BlueRedBrow2020-05-06_10-52-06_AM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/bgW_RANDOM_VTriangle_BlueRedBrow2020-05-06_10-52-28_AM.jpg",
+      "compressed_path": "./photos/HoldAll/bgW_RANDOM_VTriangle_BlueRedBrow2020-05-06_10-52-28_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/bgW_RANDOM_VTriangle_BlueRedBrow2020-05-06_10-52-28_AM.placeholder.jpg"
+    },
+    {
+      "width": 1130,
+      "height": 1101,
+      "path": "./photos/HoldAll/blkbg_interior_red_threads.png",
+      "compressed_path": "./photos/HoldAll/blkbg_interior_red_threads.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/blkbg_interior_red_threads.placeholder.png"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Camera_shutter2020-04-25_19-49-38_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Camera_shutter2020-04-25_19-49-38_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Camera_shutter2020-04-25_19-49-38_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Camera_shutter2020-04-25_19-50-57_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Camera_shutter2020-04-25_19-50-57_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Camera_shutter2020-04-25_19-50-57_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Camera_shutter2020-04-25_19-51-26_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Camera_shutter2020-04-25_19-51-26_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Camera_shutter2020-04-25_19-51-26_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Camera_shutter2020-04-25_19-52-11_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Camera_shutter2020-04-25_19-52-11_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Camera_shutter2020-04-25_19-52-11_PM.placeholder.jpg"
+    },
+    {
+      "width": 940,
+      "height": 832,
+      "path": "./photos/HoldAll/Color_sequences_2020-05-12_14-07-34_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Color_sequences_2020-05-12_14-07-34_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Color_sequences_2020-05-12_14-07-34_PM.placeholder.jpg"
+    },
+    {
+      "width": 943,
+      "height": 498,
+      "path": "./photos/HoldAll/Color_sequences_2020-05-12_14-10-38_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Color_sequences_2020-05-12_14-10-38_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Color_sequences_2020-05-12_14-10-38_PM.placeholder.jpg"
+    },
+    {
+      "width": 981,
+      "height": 872,
+      "path": "./photos/HoldAll/Color_sequences_2020-05-12_14-14-56_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Color_sequences_2020-05-12_14-14-56_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Color_sequences_2020-05-12_14-14-56_PM.placeholder.jpg"
+    },
+    {
+      "width": 978,
+      "height": 856,
+      "path": "./photos/HoldAll/Color_sequences_2020-05-12_14-29-08_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Color_sequences_2020-05-12_14-29-08_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Color_sequences_2020-05-12_14-29-08_PM.placeholder.jpg"
+    },
+    {
+      "width": 982,
+      "height": 534,
+      "path": "./photos/HoldAll/Color_sequences_2020-05-12_14-33-00_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Color_sequences_2020-05-12_14-33-00_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Color_sequences_2020-05-12_14-33-00_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Concentric_2020-04-19_18-41-22_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Concentric_2020-04-19_18-41-22_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Concentric_2020-04-19_18-41-22_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Concentric_2020-04-19_18-49-10_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Concentric_2020-04-19_18-49-10_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Concentric_2020-04-19_18-49-10_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Concentric_2020-04-19_18-49-21_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Concentric_2020-04-19_18-49-21_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Concentric_2020-04-19_18-49-21_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Concentric_2020-04-19_18-56-21_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Concentric_2020-04-19_18-56-21_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Concentric_2020-04-19_18-56-21_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Diminishing_polygons2020-04-20_16-46-39_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Diminishing_polygons2020-04-20_16-46-39_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Diminishing_polygons2020-04-20_16-46-39_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_15-38-28_PM.jpg",
+      "compressed_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_15-38-28_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_15-38-28_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_15-42-34_PM.jpg",
+      "compressed_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_15-42-34_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_15-42-34_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_16-51-41_PM.jpg",
+      "compressed_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_16-51-41_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_16-51-41_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_21-14-45_PM.jpg",
+      "compressed_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_21-14-45_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_21-14-45_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_21-16-40_PM.jpg",
+      "compressed_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_21-16-40_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_21-16-40_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_21-17-03_PM.jpg",
+      "compressed_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_21-17-03_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_21-17-03_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_23-24-15_PM.jpg",
+      "compressed_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_23-24-15_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-02_23-24-15_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/EDGE_MID_PTS2020-05-03_12-42-05_PM.jpg",
+      "compressed_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-03_12-42-05_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-03_12-42-05_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/EDGE_MID_PTS2020-05-03_12-42-56_PM.jpg",
+      "compressed_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-03_12-42-56_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-03_12-42-56_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/EDGE_MID_PTS2020-05-03_19-27-02_PM.jpg",
+      "compressed_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-03_19-27-02_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/EDGE_MID_PTS2020-05-03_19-27-02_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Inset_2020-04-20_16-39-43_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Inset_2020-04-20_16-39-43_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Inset_2020-04-20_16-39-43_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Inset_2020-04-20_16-40-34_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Inset_2020-04-20_16-40-34_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Inset_2020-04-20_16-40-34_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/INTERIOR_PTS2020-05-04_09-48-26_AM.jpg",
+      "compressed_path": "./photos/HoldAll/INTERIOR_PTS2020-05-04_09-48-26_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/INTERIOR_PTS2020-05-04_09-48-26_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/INTERIOR_PTS2020-05-04_09-55-50_AM.jpg",
+      "compressed_path": "./photos/HoldAll/INTERIOR_PTS2020-05-04_09-55-50_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/INTERIOR_PTS2020-05-04_09-55-50_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/INTERIOR_PTS_blkbg2020-05-04_10-04-41_AM.jpg",
+      "compressed_path": "./photos/HoldAll/INTERIOR_PTS_blkbg2020-05-04_10-04-41_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/INTERIOR_PTS_blkbg2020-05-04_10-04-41_AM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/INTERIOR_PTS_blkbg2020-05-04_13-16-07_PM.jpg",
+      "compressed_path": "./photos/HoldAll/INTERIOR_PTS_blkbg2020-05-04_13-16-07_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/INTERIOR_PTS_blkbg2020-05-04_13-16-07_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-04_18-42-00_PM.jpg",
+      "compressed_path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-04_18-42-00_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-04_18-42-00_PM.placeholder.jpg"
+    },
+    {
+      "width": 1087,
+      "height": 1016,
+      "path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-04_18-42-49_PM.jpg",
+      "compressed_path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-04_18-42-49_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-04_18-42-49_PM.placeholder.jpg"
+    },
+    {
+      "width": 1090,
+      "height": 1027,
+      "path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-04_18-53-06_PM.jpg",
+      "compressed_path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-04_18-53-06_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-04_18-53-06_PM.placeholder.jpg"
+    },
+    {
+      "width": 1440,
+      "height": 1440,
+      "path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-05_12-28-50_PM.jpg",
+      "compressed_path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-05_12-28-50_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-05_12-28-50_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-01-20_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-01-20_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-01-20_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-05-19_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-05-19_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-05-19_PM.placeholder.jpg"
+    },
+    {
+      "width": 989,
+      "height": 814,
+      "path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-51-54_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-51-54_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-51-54_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-25-55_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-25-55_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-25-55_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-32-13_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-32-13_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-32-13_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/orange_butterflies.jpg",
+      "compressed_path": "./photos/HoldAll/orange_butterflies.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/orange_butterflies.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Parallel_lines2020-05-11_18-45-55_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Parallel_lines2020-05-11_18-45-55_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Parallel_lines2020-05-11_18-45-55_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Parallel_lines2020-05-11_18-48-28_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Parallel_lines2020-05-11_18-48-28_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Parallel_lines2020-05-11_18-48-28_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Parallel_lines_blk2020-05-11_18-40-01_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Parallel_lines_blk2020-05-11_18-40-01_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Parallel_lines_blk2020-05-11_18-40-01_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Parallel_lines_color_seq_2020-05-11_18-56-14_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Parallel_lines_color_seq_2020-05-11_18-56-14_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Parallel_lines_color_seq_2020-05-11_18-56-14_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Parallel_lines_color_seq_2020-05-11_18-58-56_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Parallel_lines_color_seq_2020-05-11_18-58-56_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Parallel_lines_color_seq_2020-05-11_18-58-56_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Parallel_lines_odd_man_2020-05-11_19-05-40_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Parallel_lines_odd_man_2020-05-11_19-05-40_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Parallel_lines_odd_man_2020-05-11_19-05-40_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/HoldAll/Parallel_lines_RED_BROWNS_HIGH_SAT2020-05-11_18-41-47_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Parallel_lines_RED_BROWNS_HIGH_SAT2020-05-11_18-41-47_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Parallel_lines_RED_BROWNS_HIGH_SAT2020-05-11_18-41-47_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Penta_inside_Hex_2020-04-20_16-42-32_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Penta_inside_Hex_2020-04-20_16-42-32_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Penta_inside_Hex_2020-04-20_16-42-32_PM.placeholder.jpg"
+    },
+    {
+      "width": 1083,
+      "height": 1071,
+      "path": "./photos/HoldAll/RANDOM_POLYGONS_2020-05-06_09-42-37_AM.jpg",
+      "compressed_path": "./photos/HoldAll/RANDOM_POLYGONS_2020-05-06_09-42-37_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/RANDOM_POLYGONS_2020-05-06_09-42-37_AM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/rand_black_wall.jpg",
+      "compressed_path": "./photos/HoldAll/rand_black_wall.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/rand_black_wall.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/rand_blkwall_tiles.jpg",
+      "compressed_path": "./photos/HoldAll/rand_blkwall_tiles.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/rand_blkwall_tiles.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/rand_color_hx_tiles.jpg",
+      "compressed_path": "./photos/HoldAll/rand_color_hx_tiles.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/rand_color_hx_tiles.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/rand_hex.jpg",
+      "compressed_path": "./photos/HoldAll/rand_hex.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/rand_hex.placeholder.jpg"
+    },
+    {
+      "width": 979,
+      "height": 641,
+      "path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-06_12-47-48_PM.jpg",
+      "compressed_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-06_12-47-48_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-06_12-47-48_PM.placeholder.jpg"
+    },
+    {
+      "width": 980,
+      "height": 637,
+      "path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-06_13-03-30_PM.jpg",
+      "compressed_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-06_13-03-30_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-06_13-03-30_PM.placeholder.jpg"
+    },
+    {
+      "width": 989,
+      "height": 633,
+      "path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-55-39_PM.jpg",
+      "compressed_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-55-39_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-55-39_PM.placeholder.jpg"
+    },
+    {
+      "width": 984,
+      "height": 640,
+      "path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-56-53_PM.jpg",
+      "compressed_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-56-53_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-56-53_PM.placeholder.jpg"
+    },
+    {
+      "width": 978,
+      "height": 646,
+      "path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-57-34_PM.jpg",
+      "compressed_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-57-34_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-57-34_PM.placeholder.jpg"
+    },
+    {
+      "width": 986,
+      "height": 640,
+      "path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-58-10_PM.jpg",
+      "compressed_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-58-10_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-58-10_PM.placeholder.jpg"
+    },
+    {
+      "width": 978,
+      "height": 628,
+      "path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-58-57_PM.jpg",
+      "compressed_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-58-57_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/r_14_c_8_Nb15_Voronoi__2020-06-07_12-58-57_PM.placeholder.jpg"
+    },
+    {
+      "width": 941,
+      "height": 530,
+      "path": "./photos/HoldAll/sample.jpg",
+      "compressed_path": "./photos/HoldAll/sample.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/sample.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Triangles_2020-04-17_18-49-22_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Triangles_2020-04-17_18-49-22_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Triangles_2020-04-17_18-49-22_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Triangles_2020-04-17_18-49-48_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Triangles_2020-04-17_18-49-48_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Triangles_2020-04-17_18-49-48_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/HoldAll/Triangles_2020-04-17_18-50-36_PM.jpg",
+      "compressed_path": "./photos/HoldAll/Triangles_2020-04-17_18-50-36_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/HoldAll/Triangles_2020-04-17_18-50-36_PM.placeholder.jpg"
     }
   ]
 }
