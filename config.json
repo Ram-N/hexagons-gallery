@@ -29,6 +29,14 @@
     {
       "width": 1080,
       "height": 1080,
+      "path": "./photos/Butterflies/butterfly_2.jpg",
+      "compressed_path": "./photos/Butterflies/butterfly_2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Butterflies/butterfly_2.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
       "path": "./photos/Butterflies/orange_butterflies.jpg",
       "compressed_path": "./photos/Butterflies/orange_butterflies.min.jpg",
       "compressed": false,
@@ -121,38 +129,6 @@
       "placeholder_path": "./photos/HoldAll/14108MultipleGrids_matchingcenters2020-05-23_21-59-04_PM.placeholder.jpg"
     },
     {
-      "width": 988,
-      "height": 615,
-      "path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-29-28_PM.jpg",
-      "compressed_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-29-28_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-29-28_PM.placeholder.jpg"
-    },
-    {
-      "width": 980,
-      "height": 618,
-      "path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-30-57_PM.jpg",
-      "compressed_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-30-57_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-23_22-30-57_PM.placeholder.jpg"
-    },
-    {
-      "width": 979,
-      "height": 611,
-      "path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_09-36-59_AM.jpg",
-      "compressed_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_09-36-59_AM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_09-36-59_AM.placeholder.jpg"
-    },
-    {
-      "width": 997,
-      "height": 561,
-      "path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_20-32-36_PM.jpg",
-      "compressed_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_20-32-36_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/14129MultipleGrids_matchingcenters2020-05-24_20-32-36_PM.placeholder.jpg"
-    },
-    {
       "width": 1296,
       "height": 864,
       "path": "./photos/HoldAll/141392Grids_centers_offset2020-05-26_17-48-18_PM.jpg",
@@ -169,132 +145,12 @@
       "placeholder_path": "./photos/HoldAll/141393Grids_centers_offset2020-05-26_18-45-18_PM.placeholder.jpg"
     },
     {
-      "width": 1296,
-      "height": 864,
-      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-38-59_AM.jpg",
-      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-38-59_AM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-38-59_AM.placeholder.jpg"
-    },
-    {
-      "width": 985,
-      "height": 555,
-      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-57-56_AM.jpg",
-      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-57-56_AM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_09-57-56_AM.placeholder.jpg"
-    },
-    {
-      "width": 982,
-      "height": 552,
-      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-32-55_PM.jpg",
-      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-32-55_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-32-55_PM.placeholder.jpg"
-    },
-    {
-      "width": 992,
-      "height": 558,
-      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-04_PM.jpg",
-      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-04_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-04_PM.placeholder.jpg"
-    },
-    {
-      "width": 1038,
-      "height": 584,
-      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-12_PM.jpg",
-      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-12_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-24_20-33-12_PM.placeholder.jpg"
-    },
-    {
-      "width": 1025,
-      "height": 577,
-      "path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-25_20-45-13_PM.jpg",
-      "compressed_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-25_20-45-13_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/14139MultipleGrids_matchingcenters2020-05-25_20-45-13_PM.placeholder.jpg"
-    },
-    {
       "width": 1044,
       "height": 587,
       "path": "./photos/HoldAll/1455MultipleGrids_matchingcenters2020-05-23_11-13-28_AM.jpg",
       "compressed_path": "./photos/HoldAll/1455MultipleGrids_matchingcenters2020-05-23_11-13-28_AM.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/HoldAll/1455MultipleGrids_matchingcenters2020-05-23_11-13-28_AM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 864,
-      "path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-16-22_PM.jpg",
-      "compressed_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-16-22_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-16-22_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 864,
-      "path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-22-17_PM.jpg",
-      "compressed_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-22-17_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-22-17_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 864,
-      "path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-23-23_PM.jpg",
-      "compressed_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-23-23_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-23-23_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 864,
-      "path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-24-43_PM.jpg",
-      "compressed_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-24-43_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-24-43_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 864,
-      "path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-26-19_PM.jpg",
-      "compressed_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-26-19_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-26-19_PM.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/HoldAll/2020-04-16_23-43-20_PM.jpg",
-      "compressed_path": "./photos/HoldAll/2020-04-16_23-43-20_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/2020-04-16_23-43-20_PM.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/HoldAll/2020-04-16_23-44-27_PM.jpg",
-      "compressed_path": "./photos/HoldAll/2020-04-16_23-44-27_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/2020-04-16_23-44-27_PM.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/HoldAll/2020-04-17_18-40-04_PM.jpg",
-      "compressed_path": "./photos/HoldAll/2020-04-17_18-40-04_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/2020-04-17_18-40-04_PM.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/HoldAll/2020-04-17_18-43-25_PM.jpg",
-      "compressed_path": "./photos/HoldAll/2020-04-17_18-43-25_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/2020-04-17_18-43-25_PM.placeholder.jpg"
     },
     {
       "width": 1080,
@@ -795,42 +651,134 @@
     {
       "width": 1080,
       "height": 1080,
-      "path": "./photos/HoldAll/rand_black_wall.jpg",
-      "compressed_path": "./photos/HoldAll/rand_black_wall.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/rand_black_wall.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/HoldAll/rand_blkwall_tiles.jpg",
-      "compressed_path": "./photos/HoldAll/rand_blkwall_tiles.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/rand_blkwall_tiles.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
       "path": "./photos/HoldAll/rand_color_hx_tiles.jpg",
       "compressed_path": "./photos/HoldAll/rand_color_hx_tiles.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/HoldAll/rand_color_hx_tiles.placeholder.jpg"
+    }
+  ],
+  "Implied Hexagons": [
+    {
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-16-22_PM.jpg",
+      "compressed_path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-16-22_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-16-22_PM.placeholder.jpg"
     },
     {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/HoldAll/rand_hex.jpg",
-      "compressed_path": "./photos/HoldAll/rand_hex.min.jpg",
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-22-17_PM.jpg",
+      "compressed_path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-22-17_PM.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/HoldAll/rand_hex.placeholder.jpg"
+      "placeholder_path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-22-17_PM.placeholder.jpg"
     },
     {
-      "width": 941,
-      "height": 530,
-      "path": "./photos/HoldAll/sample.jpg",
-      "compressed_path": "./photos/HoldAll/sample.min.jpg",
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-23-23_PM.jpg",
+      "compressed_path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-23-23_PM.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/HoldAll/sample.placeholder.jpg"
+      "placeholder_path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-23-23_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-24-43_PM.jpg",
+      "compressed_path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-24-43_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-24-43_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-26-19_PM.jpg",
+      "compressed_path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-26-19_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Implied Hexagons/17_r_14_c_8_Arcs_inside_hexagons__2020-06-09_19-26-19_PM.placeholder.jpg"
+    }
+  ],
+  "Incubate": [
+    {
+      "width": 988,
+      "height": 615,
+      "path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-23_22-29-28_PM.jpg",
+      "compressed_path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-23_22-29-28_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-23_22-29-28_PM.placeholder.jpg"
+    },
+    {
+      "width": 980,
+      "height": 618,
+      "path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-23_22-30-57_PM.jpg",
+      "compressed_path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-23_22-30-57_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-23_22-30-57_PM.placeholder.jpg"
+    },
+    {
+      "width": 979,
+      "height": 611,
+      "path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-24_09-36-59_AM.jpg",
+      "compressed_path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-24_09-36-59_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-24_09-36-59_AM.placeholder.jpg"
+    },
+    {
+      "width": 997,
+      "height": 561,
+      "path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-24_20-32-36_PM.jpg",
+      "compressed_path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-24_20-32-36_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Incubate/14129MultipleGrids_matchingcenters2020-05-24_20-32-36_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 864,
+      "path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_09-38-59_AM.jpg",
+      "compressed_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_09-38-59_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_09-38-59_AM.placeholder.jpg"
+    },
+    {
+      "width": 985,
+      "height": 555,
+      "path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_09-57-56_AM.jpg",
+      "compressed_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_09-57-56_AM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_09-57-56_AM.placeholder.jpg"
+    },
+    {
+      "width": 982,
+      "height": 552,
+      "path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_20-32-55_PM.jpg",
+      "compressed_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_20-32-55_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_20-32-55_PM.placeholder.jpg"
+    },
+    {
+      "width": 992,
+      "height": 558,
+      "path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_20-33-04_PM.jpg",
+      "compressed_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_20-33-04_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_20-33-04_PM.placeholder.jpg"
+    },
+    {
+      "width": 1038,
+      "height": 584,
+      "path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_20-33-12_PM.jpg",
+      "compressed_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_20-33-12_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-24_20-33-12_PM.placeholder.jpg"
+    },
+    {
+      "width": 1025,
+      "height": 577,
+      "path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-25_20-45-13_PM.jpg",
+      "compressed_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-25_20-45-13_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Incubate/14139MultipleGrids_matchingcenters2020-05-25_20-45-13_PM.placeholder.jpg"
     }
   ],
   "Parallel Lines": [
@@ -891,7 +839,57 @@
       "placeholder_path": "./photos/Parallel Lines/Parallel_lines_RED_BROWNS_HIGH_SAT2020-05-11_18-41-47_PM.placeholder.jpg"
     }
   ],
+  "Stacked Cubes": [
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Stacked Cubes/2020-04-16_23-43-20_PM.jpg",
+      "compressed_path": "./photos/Stacked Cubes/2020-04-16_23-43-20_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Stacked Cubes/2020-04-16_23-43-20_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Stacked Cubes/2020-04-16_23-44-27_PM.jpg",
+      "compressed_path": "./photos/Stacked Cubes/2020-04-16_23-44-27_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Stacked Cubes/2020-04-16_23-44-27_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Stacked Cubes/rand_black_wall.jpg",
+      "compressed_path": "./photos/Stacked Cubes/rand_black_wall.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Stacked Cubes/rand_black_wall.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Stacked Cubes/rand_hex.jpg",
+      "compressed_path": "./photos/Stacked Cubes/rand_hex.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Stacked Cubes/rand_hex.placeholder.jpg"
+    }
+  ],
   "Traingles": [
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Traingles/2020-04-17_18-40-04_PM.jpg",
+      "compressed_path": "./photos/Traingles/2020-04-17_18-40-04_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Traingles/2020-04-17_18-40-04_PM.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Traingles/2020-04-17_18-43-25_PM.jpg",
+      "compressed_path": "./photos/Traingles/2020-04-17_18-43-25_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Traingles/2020-04-17_18-43-25_PM.placeholder.jpg"
+    },
     {
       "width": 1080,
       "height": 1080,
