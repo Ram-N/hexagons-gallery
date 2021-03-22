@@ -122,6 +122,30 @@
   ],
   "Dot Hexagons": [
     {
+      "width": 993,
+      "height": 962,
+      "path": "./photos/Dot Hexagons/bgBlu_SmallCircles2020-05-08_12-10-50_PM.jpg",
+      "compressed_path": "./photos/Dot Hexagons/bgBlu_SmallCircles2020-05-08_12-10-50_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dot Hexagons/bgBlu_SmallCircles2020-05-08_12-10-50_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/Dot Hexagons/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-07_PM.jpg",
+      "compressed_path": "./photos/Dot Hexagons/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-07_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dot Hexagons/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-07_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/Dot Hexagons/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-38_PM.jpg",
+      "compressed_path": "./photos/Dot Hexagons/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-38_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dot Hexagons/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-38_PM.placeholder.jpg"
+    },
+    {
       "width": 1296,
       "height": 1296,
       "path": "./photos/Dot Hexagons/Nb10_SmallCirc2020-05-08_13-01-20_PM.jpg",
@@ -404,30 +428,6 @@
       "compressed_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_YellowGreens2020-05-06_10-09-08_AM.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/HoldAll/bgBlk_RANDOM_POLYGONS_YellowGreens2020-05-06_10-09-08_AM.placeholder.jpg"
-    },
-    {
-      "width": 993,
-      "height": 962,
-      "path": "./photos/HoldAll/bgBlu_SmallCircles2020-05-08_12-10-50_PM.jpg",
-      "compressed_path": "./photos/HoldAll/bgBlu_SmallCircles2020-05-08_12-10-50_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/bgBlu_SmallCircles2020-05-08_12-10-50_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-07_PM.jpg",
-      "compressed_path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-07_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-07_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-38_PM.jpg",
-      "compressed_path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-38_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/bgwhite_SmallCirc_BLUREDBRWN2020-05-08_12-13-38_PM.placeholder.jpg"
     },
     {
       "width": 977,

@@ -1,4 +1,7 @@
-# Gallery
+
+### View the [Hexagons Gallery](https://ram-n.github.io/hexagons-gallery/)
+
+
 A visual portfolio generator with web hosting for your mockups and photo albums. Requires no 3rd party libraries or installations. A 🤑free🤑 Squarespace alternative for your photos. Live demo at http://andyzhang.net/gallery
 
 ![demo](http://g.recordit.co/myz4N5iMzg.gif)
@@ -87,3 +90,15 @@ Columns takes priority if both are set.
 If you enjoyed using Gallery, I'd love to see what you created with Gallery 🙌
 
 Share your gallery with me on this [thread](https://github.com/andyzg/gallery/issues/1)❤️!
+
+----
+Notes and reminders:
+
+1. Go to the hexagons-gallery directory for example
+2. go to the Photos directory
+3. Copy all your images to a NEW DIR under photos
+4. Important: run > python tools/setup.py. This will update the config.json
+5. git add config.json as well as photos/NEWDIR
+6. git commit -m "whatever your changes are"
+7. push to gh-pages (git push origin gh-pages)
+8. go to ram-n.github.io and look for the changes
