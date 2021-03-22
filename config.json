@@ -120,6 +120,48 @@
       "placeholder_path": "./photos/Color Sequences/Color_sequences_2020-05-12_14-33-00_PM.placeholder.jpg"
     }
   ],
+  "Dot Hexagons": [
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/Dot Hexagons/Nb10_SmallCirc2020-05-08_13-01-20_PM.jpg",
+      "compressed_path": "./photos/Dot Hexagons/Nb10_SmallCirc2020-05-08_13-01-20_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dot Hexagons/Nb10_SmallCirc2020-05-08_13-01-20_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/Dot Hexagons/Nb10_SmallCirc2020-05-08_13-05-19_PM.jpg",
+      "compressed_path": "./photos/Dot Hexagons/Nb10_SmallCirc2020-05-08_13-05-19_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dot Hexagons/Nb10_SmallCirc2020-05-08_13-05-19_PM.placeholder.jpg"
+    },
+    {
+      "width": 989,
+      "height": 814,
+      "path": "./photos/Dot Hexagons/Nb10_SmallCirc2020-05-08_13-51-54_PM.jpg",
+      "compressed_path": "./photos/Dot Hexagons/Nb10_SmallCirc2020-05-08_13-51-54_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dot Hexagons/Nb10_SmallCirc2020-05-08_13-51-54_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/Dot Hexagons/Nb10_SmallCirc_2color2020-05-08_14-25-55_PM.jpg",
+      "compressed_path": "./photos/Dot Hexagons/Nb10_SmallCirc_2color2020-05-08_14-25-55_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dot Hexagons/Nb10_SmallCirc_2color2020-05-08_14-25-55_PM.placeholder.jpg"
+    },
+    {
+      "width": 1296,
+      "height": 1296,
+      "path": "./photos/Dot Hexagons/Nb10_SmallCirc_2color2020-05-08_14-32-13_PM.jpg",
+      "compressed_path": "./photos/Dot Hexagons/Nb10_SmallCirc_2color2020-05-08_14-32-13_PM.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dot Hexagons/Nb10_SmallCirc_2color2020-05-08_14-32-13_PM.placeholder.jpg"
+    }
+  ],
   "Hex_in_Hex": [
     {
       "width": 991,
@@ -682,46 +724,6 @@
       "compressed_path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-05_12-28-50_PM.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/HoldAll/INT_PTS_POLYGONS_2020-05-05_12-28-50_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-01-20_PM.jpg",
-      "compressed_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-01-20_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-01-20_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-05-19_PM.jpg",
-      "compressed_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-05-19_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-05-19_PM.placeholder.jpg"
-    },
-    {
-      "width": 989,
-      "height": 814,
-      "path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-51-54_PM.jpg",
-      "compressed_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-51-54_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/Nb10_SmallCirc2020-05-08_13-51-54_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-25-55_PM.jpg",
-      "compressed_path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-25-55_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-25-55_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-32-13_PM.jpg",
-      "compressed_path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-32-13_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/HoldAll/Nb10_SmallCirc_2color2020-05-08_14-32-13_PM.placeholder.jpg"
     },
     {
       "width": 1080,
